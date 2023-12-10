@@ -1,3 +1,4 @@
-# appointment-service-backend
-appointment service app backend / final project for the wbs coding school
+# Appointment Service App
+
+Appointment Service App / Final project for the WBS Coding School
 
